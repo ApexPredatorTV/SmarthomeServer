@@ -1,0 +1,34 @@
+<component name="libraryTable">
+  <library name="com.ibm.watson:assistant:9.0.2" type="repository">
+    <properties maven-id="com.ibm.watson:assistant:9.0.2" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/assistant-9.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/common-9.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sdk-core-9.5.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/okhttp-4.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/okio-2.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-common-1.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-1.4.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/annotations-13.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/logging-interceptor-4.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-jdk8-1.4.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-jdk7-1.4.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/okhttp-urlconnection-4.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-codec-1.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-io-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang3-3.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/guava-29.0-jre.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/failureaccess-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jsr305-3.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/checker-qual-2.11.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/error_prone_annotations-2.3.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/j2objc-annotations-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gson-2.8.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/rxjava-2.2.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/reactive-streams-1.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
